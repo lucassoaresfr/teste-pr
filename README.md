@@ -1,6 +1,1 @@
-
-
-```sql
-SELECT * FROM CHUPETINHA
-
-```
+LUCAS
